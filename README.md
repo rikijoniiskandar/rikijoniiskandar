@@ -7,7 +7,8 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 ### My Tools
 
 - OS : [Ubuntu](https://ubuntu.com//)
-- IDE : [Visual Studio Code](https://code.visualstudio.com/) & [Android Studio](https://developer.android.com/studio)
+- IDE : [Visual Studio Code](https://code.visualstudio.com/) 
+<!-- - & [Android Studio](https://developer.android.com/studio) -->
 - Text Editor : [Vim](https://www.vim.org/) & [NeoVim](https://neovim.io/)
 - Version Control : [Git](https://git-scm.com/)
 
