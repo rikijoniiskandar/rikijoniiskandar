@@ -18,7 +18,7 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 <!-- - Container : [Docker](https://www.docker.com/), [Alpine Linux](https://hub.docker.com/_/alpine/) -->
 <!-- - Database : [MariaDB](https://mariadb.org/) or [PostgreSQL](https://www.postgresql.org/) -->
 <!-- - Backend : [PHP](https://www.php.net/), [Laravel](https://laravel.com/) -->
-- Web Frontend : [NodeJS](https://nodejs.org/en/), [Typescript](https://www.typescriptlang.org/), [VueJS](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/)
+- Web Frontend : [NodeJS](https://nodejs.org/en/), [Typescript](https://www.typescriptlang.org/), [VueJS](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/), [Angular](https://angular.io)
 <!-- - Mobile Frontend : [Java](https://www.java.com/en/), [Android](https://www.android.com/) -->
 
 ### My Current Interest
