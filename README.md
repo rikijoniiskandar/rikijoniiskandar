@@ -8,7 +8,7 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 
 - OS : [Ubuntu](https://ubuntu.com//)
 - IDE : [Visual Studio Code](https://code.visualstudio.com/) 
-- Text Editor : [Vim](https://www.vim.org/) & [NeoVim](https://neovim.io/)
+- Text Editor : [Vim](https://www.vim.org/
 - Version Control : [Git](https://git-scm.com/)
 
 ### My Solution Stack
@@ -19,9 +19,9 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 ### My Current Interest
 
 - [Linux Kernel](https://github.com/torvalds/linux) (I want to learn about linux kernel module)
-- [Deno](https://deno.land/) (Future NodeJS replacement ?)
+<!-- - [Deno](https://deno.land/) (Future NodeJS replacement ?) -->
 <!-- - C (My favorite programming language) -->
-<!-- - [Golang](https://golang.org/) (Sometimes, I learn Golang in my free time) -->
+- [Golang](https://golang.org/) (Sometimes, I learn Golang in my free time)
 <!-- - [OpenGL](https://www.opengl.org/) (I want to know how computer process and display graphics) -->
 <!-- - [Unity](https://unity.com/) (I'm planning to learn and create basic 2D platformer games) -->
 <!-- - [Rocky Linux](https://rockylinux.org/) (Future OS choice for my solution stack) -->
@@ -35,8 +35,10 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 
 ### My Stats
 
-![Riki Joni Iskandar WakaTime Coding Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/36c7a01f-0fb6-4a16-9357-23833254a28c.svg)
 
 ![Riki Joni Iskandar WakaTime Programming Language Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/39862696-f5c6-4a6a-8c00-ace41b96acaa.svg)
+
+![Riki Joni Iskandar WakaTime Coding Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/36c7a01f-0fb6-4a16-9357-23833254a28c.svg)
+
 
 ![Riki Joni Iskandar Operating Systems Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/d334b53b-ae65-44b7-9858-804e567af5ae.svg)
