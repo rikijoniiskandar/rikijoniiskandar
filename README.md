@@ -16,12 +16,12 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 - Server : [Nginx](https://nginx.org/en/)
 - Web Frontend : [NodeJS](https://nodejs.org/en/), [Typescript](https://www.typescriptlang.org/), [VueJS](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/), [Angular](https://angular.io)
 
-### My Current Interest
+<!-- ### My Current Interest -->
 
-- [Linux Kernel](https://github.com/torvalds/linux) (I want to learn about linux kernel module)
+<!-- - [Linux Kernel](https://github.com/torvalds/linux) (I want to learn about linux kernel module) -->
 <!-- - [Deno](https://deno.land/) (Future NodeJS replacement ?) -->
 <!-- - C (My favorite programming language) -->
-- [Golang](https://golang.org/) (Sometimes, I learn Golang in my free time)
+<!-- - [Golang](https://golang.org/) (Sometimes, I learn Golang in my free time) -->
 <!-- - [OpenGL](https://www.opengl.org/) (I want to know how computer process and display graphics) -->
 <!-- - [Unity](https://unity.com/) (I'm planning to learn and create basic 2D platformer games) -->
 <!-- - [Rocky Linux](https://rockylinux.org/) (Future OS choice for my solution stack) -->
