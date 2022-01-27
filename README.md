@@ -8,7 +8,7 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 
 - OS : [Ubuntu](https://ubuntu.com//)
 - IDE : [Visual Studio Code](https://code.visualstudio.com/) 
-- Text Editor : [Vim](https://www.vim.org/
+<!-- - Text Editor : [Vim](https://www.vim.org/ -->
 - Version Control : [Git](https://git-scm.com/)
 
 ### My Solution Stack
