@@ -43,4 +43,4 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 ![Riki Joni Iskandar WakaTime Coding Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/36c7a01f-0fb6-4a16-9357-23833254a28c.svg)
 
 
-![Riki Joni Iskandar Operating Systems Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/d334b53b-ae65-44b7-9858-804e567af5ae.svg)
+<!-- ![Riki Joni Iskandar Operating Systems Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/d334b53b-ae65-44b7-9858-804e567af5ae.svg) -->
