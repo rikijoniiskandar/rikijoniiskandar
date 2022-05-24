@@ -1,9 +1,7 @@
-# Riki Joni Iskandar (@rikijoniiskandar)
-
 Hi 👋 My name is Riki Joni Iskandar
 ===================================
 
-Web Developer
+Web Developer | Frontend Developer
 -------------
 
 Currently I'm working as a programmer in a tech company located in Medan, Sumatera Utara, Indonesia, mainly focus on front-end of a system. I love to solve common software-related problem, learning new things, and trying new technologies.
