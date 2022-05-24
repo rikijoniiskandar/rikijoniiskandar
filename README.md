@@ -48,6 +48,12 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 <a href="http://www.github.com/rikijoniiskandar"><img src="https://github-readme-stats.vercel.app/api?username=rikijoniiskandar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rikijoniiskandar's GitHub stats" /></a>
 <a href="http://www.github.com/rikijoniiskandar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rikijoniiskandar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/rikijoniiskandar"><img src="https://activity-graph.herokuapp.com/graph?username=rikijoniiskandar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/rikijoniiskandar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikijoniiskandar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Riki Joni Iskandar WakaTime Programming Language Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/983877ea-5a82-4a4a-8f2b-3ba016f3b46e.svg)
+
+![Riki Joni Iskandar WakaTime Coding Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/64611b7b-447b-4472-8809-9d0f49c1d5bc.svg)
+
+
+![Riki Joni Iskandar Operating Systems Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/fbf955d3-1da8-490a-9606-782bd4b638ac.svg)
 
 <b>Top Repositories</b>
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
@@ -69,16 +75,6 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 - [Javascript] (My favorite programming language)
 - [Java](https://golang.org/) (Sometimes, I learn Golang in my free time)
 
-
-### My Stats
-
-
-![Riki Joni Iskandar WakaTime Programming Language Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/983877ea-5a82-4a4a-8f2b-3ba016f3b46e.svg)
-
-![Riki Joni Iskandar WakaTime Coding Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/64611b7b-447b-4472-8809-9d0f49c1d5bc.svg)
-
-
-![Riki Joni Iskandar Operating Systems Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/fbf955d3-1da8-490a-9606-782bd4b638ac.svg)
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/rikijohn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
