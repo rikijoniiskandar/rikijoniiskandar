@@ -76,7 +76,7 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 ### My Current Interest
 
 - [Javascript] (My favorite programming language)
-- [Java](https://golang.org/) (Sometimes, I learn Golang in my free time)
+- [Java] (Sometimes, I learn Java in my free time)
 
 
 ### Support Me
