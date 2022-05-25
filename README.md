@@ -58,9 +58,8 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 
 ![Riki Joni Iskandar Operating Systems Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/fbf955d3-1da8-490a-9606-782bd4b638ac.svg)
 
-<b>Top Repositories</b>
+### Top Repositories
 [![wakatime](https://wakatime.com/badge/github/rikijoniiskandar/personal-blog.svg)](https://wakatime.com/badge/github/rikijoniiskandar/personal-blog)
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### My Tools
 
