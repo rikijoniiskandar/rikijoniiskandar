@@ -40,6 +40,9 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
  ### Socials
 <p align="left">
  <a href="https://www.github.com/rikijoniiskandar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rikijo__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/riki-joni-iskandar97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Top Repositories
+[![wakatime](https://wakatime.com/badge/github/rikijoniiskandar/personal-blog.svg)](https://wakatime.com/badge/github/rikijoniiskandar/personal-blog)
  
  ### Badges
 <b>My GitHub Stats</b>
@@ -55,11 +58,10 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 
 ![Riki Joni Iskandar WakaTime Coding Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/64611b7b-447b-4472-8809-9d0f49c1d5bc.svg)
 
+![Riki Joni Iskandar Code Editor](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/5accbe1f-cffd-4fdd-82a0-27e9daa29381.svg)
 
 ![Riki Joni Iskandar Operating Systems Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/fbf955d3-1da8-490a-9606-782bd4b638ac.svg)
 
-### Top Repositories
-[![wakatime](https://wakatime.com/badge/github/rikijoniiskandar/personal-blog.svg)](https://wakatime.com/badge/github/rikijoniiskandar/personal-blog)
 
 ### My Tools
 
