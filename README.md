@@ -54,14 +54,8 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikijoniiskandar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/rikijoniiskandar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikijoniiskandar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![Riki Joni Iskandar WakaTime Programming Language Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/983877ea-5a82-4a4a-8f2b-3ba016f3b46e.svg)
 
 ![Riki Joni Iskandar WakaTime Coding Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/64611b7b-447b-4472-8809-9d0f49c1d5bc.svg)
-
-![Riki Joni Iskandar Code Editor](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/5accbe1f-cffd-4fdd-82a0-27e9daa29381.svg)
-
-![Riki Joni Iskandar Operating Systems Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/8480b717-0035-4c23-ba20-63ecf0075297.svg)
-
 
 ### My Tools
 
