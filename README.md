@@ -7,9 +7,9 @@ Web Developer | Frontend Developer
 Currently I'm working as a programmer in a tech company located in Medan, Sumatera Utara, Indonesia, mainly focus on front-end of a system. I love to solve common software-related problem, learning new things, and trying new technologies.
 
 *   🌍  I'm based in Medan Indonesia
-*   🖥️  See my portfolio at [blogiseng (in development)](http://dev.blogiseng.my.id)
+<!--*   🖥️  See my portfolio at [blogiseng (in development)](http://dev.blogiseng.my.id)-->
 *   ✉️  You can contact me at [rikijoniiskandar97@gmail.com](mailto:rikijoniiskandar97@gmail.com)
-*   🚀  I'm currently working on [blogiseng](http://dev.blogiseng.my.id)
+<!--*   🚀  I'm currently working on [blogiseng](http://dev.blogiseng.my.id) -->
 *   🧠  I'm learning React Js & Next Js
 *   🤝  I'm open to collaborating on interesting project please contact me
 *   ⚡  I'm a secretly Magician...please don't tell anyone
