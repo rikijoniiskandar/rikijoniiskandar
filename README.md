@@ -67,7 +67,7 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 ### My Solution Stack
 
 - Server : [Nginx](https://nginx.org/en/)
-- Web Frontend : [NodeJS](https://nodejs.org/en/), [Typescript](https://www.typescriptlang.org/), [VueJS](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/), [Angular](https://angular.io)
+- Web Frontend : [NodeJS](https://nodejs.org/en/), [Typescript](https://www.typescriptlang.org/), [VueJS](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/), [Angular](https://angular.io), [React](https://reactjs.org)
 
 ### My Current Interest
 
