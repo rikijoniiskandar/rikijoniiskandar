@@ -4,7 +4,7 @@ Hi 👋 My name is Riki Joni Iskandar
 Web Developer | Frontend Developer
 -------------
 
-Currently I'm working as a programmer in a tech company located in Medan, Sumatera Utara, Indonesia, mainly focus on front-end of a system. I love to solve common software-related problem, learning new things, and trying new technologies.
+Currently I'm working as a Software Engineer in a tech company located in Medan, Sumatera Utara, Indonesia, mainly focus on front-end of a system. I love to solve common software-related problem, learning new things, and trying new technologies.
 
 *   🌍  I'm based in Medan Indonesia
 <!--*   🖥️  See my portfolio at [blogiseng (in development)](http://dev.blogiseng.my.id)-->
