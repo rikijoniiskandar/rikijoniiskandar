@@ -71,7 +71,7 @@ Currently I'm working as a Software Engineer in a tech company located in Medan,
 
 ### My Current Interest
 
-- [Javascript] (My favorite programming language)
+- [Javascript / Typescript] (My favorite programming language)
 - [Golang] (Sometimes, I learn Golang in my free time)
 
 
