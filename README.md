@@ -10,7 +10,6 @@ Currently I'm working as a Software Engineer in a tech company located in Medan,
 <!--*   🖥️  See my portfolio at [blogiseng (in development)](http://dev.blogiseng.my.id)-->
 *   ✉️  You can contact me at [rikijoniiskandar97@gmail.com](mailto:rikijoniiskandar97@gmail.com)
 <!--*   🚀  I'm currently working on [blogiseng](http://dev.blogiseng.my.id) -->
-*   🧠  I'm learning React Js & Next Js
 *   🤝  I'm open to collaborating on interesting project please contact me
 *   ⚡  I'm a secretly Magician...please don't tell anyone
 
