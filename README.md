@@ -54,8 +54,10 @@ Currently I'm working as a Software Engineer in a tech company located in Medan,
 <a href="https://github.com/rikijoniiskandar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikijoniiskandar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-![Riki Joni Iskandar WakaTime Coding Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/64611b7b-447b-4472-8809-9d0f49c1d5bc.svg)
-
+![Riki Joni Iskandar WakaTime Coding Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/fb737d01-c6b1-482d-9f43-c2f7609de12d.svg)
+<br />
+![Riki Joni Iskandar Editor Stats](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/a599e415-b649-42d2-9210-7c0daccc98d4.svg)
+<
 ### My Tools
 
 - OS : [Ubuntu](https://ubuntu.com//)
