@@ -53,9 +53,8 @@ Currently I'm working as a Software Engineer in a tech company located in Medan,
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikijoniiskandar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/rikijoniiskandar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikijoniiskandar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<br />
-<!-- ![Riki Joni Iskandar Languange](https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/c4b2fb23-a1d6-4f2e-9e53-10beeddfa674.svg) -->
-<figure><embed src="https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/dc8ac390-9b76-4622-b2b3-d730789aaa89.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@e2a130a9-7d98-47a1-a0cd-11779ab079c9/11b72606-d49e-427b-8c3b-6502ae68b32c.png
+    :target: https://wakatime.com/
 ### My Tools
 
 - OS : [Ubuntu](https://ubuntu.com//)
